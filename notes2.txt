@@ -6,4 +6,3 @@ doing pull request
 working on stash
 learning reset
 Time for revert
-Making wrong revert
